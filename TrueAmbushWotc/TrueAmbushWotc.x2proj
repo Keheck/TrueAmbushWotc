@@ -29,6 +29,9 @@
     <Content Include="Src\TrueAmbushWotc\Classes\TAW_UIAmbushHUD.uc">
       <SubType>Content</SubType>
     </Content>
+    <Content Include="Src\TrueAmbushWotc\Classes\TAW_XComGameState_AmbushManager.uc">
+      <SubType>Content</SubType>
+    </Content>
     <Content Include="Src\TrueAmbushWotc\Classes\X2DownloadableContentInfo_TrueAmbushWotc.uc" />
   </ItemGroup>
   <Import Project="$(MSBuildLocalExtensionPath)\XCOM2.targets" />
